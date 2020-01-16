@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: false
-name: mosaicFlye
+title: mosaicFlye
+github:
+  repository_url: false
